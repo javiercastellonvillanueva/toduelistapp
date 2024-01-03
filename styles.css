@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.delete-button{
+    margin-left: 10px;
+}
+#todo-app {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#tasks {
+    list-style-type: none;
+    padding: 5px;
+}
+
+#tasks li {
+    margin: 5px 0;
+    padding: 5px;
+    background-color: #efefef;
+}
